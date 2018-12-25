@@ -1,0 +1,26 @@
+{
+  "name": "heartish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwdart/heartish.git"
+  },
+  "keywords": [],
+  "author": "Dan Dart <npm@dandart.co.uk> (https://dandart.co.uk/)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/danwdart/heartish/issues"
+  },
+  "homepage": "https://github.com/danwdart/heartish#readme",
+  "devDependencies": {
+    "eslint": "^5.11.0"
+  }
+}
