@@ -17,7 +17,7 @@ const canvas = new Canvas('canvas'),
     },
     onkeypress = ev => {
         ev.preventDefault();
-    
+
         switch (ev.code) {
         case 'ArrowUp':
             count++;
