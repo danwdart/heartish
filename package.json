@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/danwdart/heartish#readme",
   "devDependencies": {
-    "eslint": "^9.11.1"
+    "eslint": "^9.15.0"
   },
   "snyk": true,
   "dependencies": {
-    "@snyk/protect": "^1.1293.1"
+    "@snyk/protect": "^1.1294.0"
   }
 }
